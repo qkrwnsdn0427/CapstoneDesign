@@ -3,6 +3,8 @@
 
 소프트웨어융합대학 캡스톤 Fair 3rd Place 우수상
 
+NeRFBot_scripts 폴더 -> NeRFBot 실행 파이썬 스크립트
+
 ![캡스톤_발표포스터_최종본_1](https://github.com/qkrwnsdn0427/CapstoneDesign/assets/129582433/878c6416-ca68-45b2-87ff-a3e7c1a562cd)
 
 
