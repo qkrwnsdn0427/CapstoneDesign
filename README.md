@@ -47,11 +47,13 @@
     
     NVIDIA CUDA Toolkit 설치
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c3a3eddb-3deb-43f5-b9db-57491f74a674/aa7255a3-075b-4409-8ad1-211d9c588943/Untitled.png)
+   ![image](https://github.com/user-attachments/assets/46fbb9dc-6340-40f6-88f5-81502824ed01)
+
     
     …
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c3a3eddb-3deb-43f5-b9db-57491f74a674/a2fad324-2bf3-4229-9bc4-a3f8db400818/Untitled.png)
+   ![image](https://github.com/user-attachments/assets/b326a78d-60d6-464b-bdca-2b44039df18d)
+
     
     [Wikiwand - CUDA](https://www.wikiwand.com/en/CUDA#/GPUs_supported)
     
@@ -59,7 +61,9 @@
     
     ex) RTX2060 → 7.5 Turing
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c3a3eddb-3deb-43f5-b9db-57491f74a674/35d03044-f893-4969-93ec-592adaf447f0/Untitled.png)
+   ![image](https://github.com/user-attachments/assets/7000d431-d28f-403d-a88d-7d26a535b6be)
+
+
     
     [GPU에 맞는 CUDA 버전 확인](https://velog.io/@openjr/GPU에-맞는-CUDA-버전-확인)
     
@@ -167,7 +171,8 @@
     
     만약 아래와 같은 ERROR문 발생시
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c3a3eddb-3deb-43f5-b9db-57491f74a674/b6ac4511-b451-4b1a-8682-5c4c3be239ad/Untitled.jpeg)
+    ![image](https://github.com/user-attachments/assets/55d768b5-8a5b-4025-8490-1a330e270b21)
+
     
     데이터 폴더 크기 비교 시 demo 데이터보다 작음에도 메모리 할당에 실패
     
