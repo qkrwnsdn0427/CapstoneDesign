@@ -1,4 +1,4 @@
-# CapstoneDesign
+![image](https://github.com/user-attachments/assets/f27a3720-8538-4e09-809f-1f01c4c93c99)# CapstoneDesign
 인공지능캡스톤디자인 NeRFBot :TurtleBot3를 활용한 NeRF 데이터셋 취득
 
 소프트웨어융합대학 캡스톤 Fair 3rd Place 우수상
@@ -60,8 +60,9 @@
     위 목록에서 자신의 GPU에 맞는 CUDA 버전 확인
     
     ex) RTX2060 → 7.5 Turing
-    
-   ![image](https://github.com/user-attachments/assets/7000d431-d28f-403d-a88d-7d26a535b6be)
+
+    ![image](https://github.com/user-attachments/assets/5beac76f-ad41-4f6a-8830-d85d45765ac3)
+
 
 
     
@@ -71,7 +72,7 @@
     
     RTX2060 이 7.5 Turing이므로 CUDA 10.0-10.2~12.0까지 설치 가능
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c3a3eddb-3deb-43f5-b9db-57491f74a674/c4e9d489-389c-4583-a044-ada74fee506d/Untitled.png)
+    ![image](https://github.com/user-attachments/assets/7000d431-d28f-403d-a88d-7d26a535b6be)
     
     예시로 11.7 설치 
     
