@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f27a3720-8538-4e09-809f-1f01c4c93c99)# CapstoneDesign
+# CapstoneDesign
 인공지능캡스톤디자인 NeRFBot :TurtleBot3를 활용한 NeRF 데이터셋 취득
 
 소프트웨어융합대학 캡스톤 Fair 3rd Place 우수상
