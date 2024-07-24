@@ -4,8 +4,10 @@
 소프트웨어융합대학 캡스톤 Fair 3rd Place 우수상
 
 * NeRFBot_scripts 폴더 -> NeRFBot 실행 파이썬 스크립트
+  
     -detect_capstone => YOLOv5를 이용해 커스텀 학습 시킨 레이블 객체를 탐지 후, BBox를 기준으로 TurtleBot과 물체 간의 거리 및 각도 조절
     -orbit_record_complete => detect_capstone.py파일 수행 후 자동 실행되며, 라이다로 물체간의 거리를 측정하고 터틀봇을 회전해 원을 돌며 영상 촬영 후 저장
+  
 * instnant-ngp_scripts 폴더 -> performance.py는 원본 이미지들과 NeRF학습 이미지들 간의 이미지 유사도 비교를 위한 스크립트
 
 ![캡스톤_발표포스터_최종본_1](https://github.com/qkrwnsdn0427/CapstoneDesign/assets/129582433/878c6416-ca68-45b2-87ff-a3e7c1a562cd)
