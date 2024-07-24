@@ -10,6 +10,8 @@
   
 * instnant-ngp_scripts 폴더 -> performance.py는 원본 이미지들과 NeRF학습 이미지들 간의 이미지 유사도 비교를 위한 스크립트
 
+* NeRFBot_capstone.pt -> 커스텀 데이터(아린, 하냥이)를 학습시킨 weight파일
+
 ![캡스톤_발표포스터_최종본_1](https://github.com/qkrwnsdn0427/CapstoneDesign/assets/129582433/878c6416-ca68-45b2-87ff-a3e7c1a562cd)
 
 
